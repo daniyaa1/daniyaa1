@@ -1,4 +1,4 @@
-<h1 align="center">Daniya Ishteyaque 👋</h1>
+<h1 align="center">Daniya Ishteyaque <img src=" https://img.magnific.com/premium-vector/cute-yellow-emoji-with-smiling-face-rosy-cheeks-big-eyes_1179456-11189.jpg?semt=ais_hybrid&w=740&q=80" atl = "" /></h1>
 
 <p align="center">
   Building AI-powered tools, full-stack apps, and accessibility tech.
