@@ -1,6 +1,6 @@
 <h1 align="center">
   Daniya Ishteyaque
-<img src="https://img.magnific.com/premium-vector/cute-yellow-emoji-with-smiling-face-rosy-cheeks-big-eyes_1179456-11189.jpg?semt=ais_hybrid&w=740&q=80" width="40px" style="vertical-align: middle;">
+<img src="https://img.magnific.com/premium-vector/cute-yellow-emoji-with-smiling-face-rosy-cheeks-big-eyes_1179456-11189.jpg?semt=ais_hybrid&w=740&q=80" width="40px" style="vertical-align: -5px;">
 </h1>
 
 <p align="center">
