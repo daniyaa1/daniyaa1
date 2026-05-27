@@ -1,6 +1,6 @@
 <h1 align="center">
   Daniya Ishteyaque
-  <img src="https://em-content.zobj.net/source/apple/391/smiling-face-with-smiling-eyes_1f60a.png" width="38px">
+  <img src="https://img.magnific.com/premium-vector/cute-yellow-emoji-with-smiling-face-rosy-cheeks-big-eyes_1179456-11189.jpg?semt=ais_hybrid&w=740&q=80" width="40px">
 </h1>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ### 💫 About Me
 
-B.Tech Computer Science and Engineering student at Amity University Kolkata with interests in full-stack development, AI/ML, Generative AI, accessibility tech, and open source. I enjoy building practical projects that combine creativity with real-world impact — from AI-powered applications to developer tools and interactive web experiences.
+B.Tech Computer Science and Engineering student at Amity University Kolkata with interests in full-stack development, AI/ML, Generative AI, accessibility tech, and open source. I enjoy building practical projects that combine creativity with real-world impact - from AI-powered applications to developer tools and interactive web experiences.
 
 Always exploring new technologies, improving my skills, and collaborating on meaningful projects.
 
