@@ -1,14 +1,13 @@
 <h1 align="center">Hey, I'm Daniya 👩‍💻</h1>
 
 <p align="center">
-  <em>BTech CSE @ Amity University Kolkata · she/her</em>
+  <em>BTech CSE · she/her</em>
 </p>
 
 <p align="center">
   <a href="mailto:daniyaishteyaque@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/daniya-ishteyaque-8a4816316"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/daniyaa1"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=daniyaa1&color=blueviolet&style=flat-square&label=profile+views"/>
 </p>
 
 ---
@@ -81,5 +80,9 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=daniyaa1&color=blueviolet&style=flat-square&label=profile+views"/>
+</p>
 
 <p align="center"><em>always learning, always building ✨</em></p>
