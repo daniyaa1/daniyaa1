@@ -3,6 +3,12 @@
   <img src="https://img.magnific.com/premium-vector/cute-yellow-emoji-with-smiling-face-rosy-cheeks-big-eyes_1179456-11189.jpg?semt=ais_hybrid&w=740&q=80" width="40px">
 </h1>
 
+### 💫 About Me
+
+B.Tech Computer Science and Engineering student at Amity University Kolkata with interests in AI/ML, full-stack development, accessibility tech, and open source. I enjoy building practical projects that combine creativity with real-world impact — from AI-powered applications to developer tools and interactive web experiences.
+
+Always exploring new technologies, improving my skills, and collaborating on meaningful projects.
+
 <p align="center">
   Building AI-powered tools, full-stack apps, and accessibility tech.
 </p>
@@ -11,27 +17,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Open+Source+Contributor" />
 </p>
 
-<p align="center">
+### 🌐 Connect With Me
+
+<p align="left">
   <a href="mailto:daniyaishteyaque@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
+  
   <a href="https://www.linkedin.com/in/daniya-ishteyaque-8a4816316">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
+  
   <a href="https://github.com/daniyaa1">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
 
----
 
-### 💫 About Me
-
-- 🎓 3rd year CSE student building full-stack apps and AI-powered tools
-- 💻 Interested in AI/ML, accessibility tech, and scalable web apps
-- 🤝 Open to collaborations, open-source contributions, and internships
-
----
 
 ### 🛠️ Tech Stack
 
