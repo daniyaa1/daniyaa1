@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  <em>BTech CSE</em>
-</p>
-
-<p align="center">
   <a href="mailto:daniyaishteyaque@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
