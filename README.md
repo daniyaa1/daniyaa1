@@ -1,4 +1,7 @@
-<h1 align="center">Daniya Ishteyaque <img src=" https://img.magnific.com/premium-vector/cute-yellow-emoji-with-smiling-face-rosy-cheeks-big-eyes_1179456-11189.jpg?semt=ais_hybrid&w=740&q=80" atl = "" /></h1>
+<h1 align="center">
+  Daniya Ishteyaque 
+  <img src="https://img.magnific.com/premium-vector/cute-yellow-emoji-with-smiling-face-rosy-cheeks-big-eyes_1179456-11189.jpg?semt=ais_hybrid&w=740&q=80" width="40px">
+</h1>
 
 <p align="center">
   Building AI-powered tools, full-stack apps, and accessibility tech.
@@ -75,12 +78,12 @@ Git · GitHub · VS Code · Figma
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniyaa1&show_icons=true&hide_border=true&count_private=true" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyaa1&layout=compact&hide_border=true" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=daniyaa1&show_icons=true&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyaa1&layout=compact&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniyaa1&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=daniyaa1&hide_border=true"/>
 </p>
 
 ---
