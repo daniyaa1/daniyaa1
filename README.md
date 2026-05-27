@@ -82,18 +82,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=daniyaa1&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" 
-    height="165"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyaa1&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" 
-    height="165"
-  />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=daniyaa1&hide_border=true"/>
 </p>
 
