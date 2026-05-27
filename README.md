@@ -75,7 +75,7 @@ Always exploring new technologies, improving my skills, and collaborating on mea
 | Project | Description |
 |---------|-------------|
 | 🌾 [Kisan Setu](https://github.com/daniyaa1/Kisan_Setu_SIH_2025) | AI farming assistant with multilingual voice support and pest detection |
-| 🤟 [Ava](https://github.com/daniyaa1/Ava_ML_Version) | Real-time Indian Sign Language translation pipeline |
+| ✊ [Ava](https://github.com/daniyaa1/Ava_ML_Version) | Real-time Indian Sign Language translation pipeline |
 | 🔍 [YOLO Inlay Hints](https://github.com/daniyaa1/yolo-inlay-hints) | VS Code extension for YOLO annotation labeling |
 | 🤖 [AI Plagiarism Checker](https://github.com/daniyaa1/AI-Plagiarism-Checker) | Detects AI-generated text using NLP metrics |
 
