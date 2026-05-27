@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <em>BTech CSE · she/her</em>
+  <em>BTech CSE</em>
 </p>
 
 <p align="center">
